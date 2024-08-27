@@ -107,7 +107,7 @@ Sitten vielä piti nimetä kone ja luoda pääkäyttäjän tunnus, sekä salasan
 
  
 
-Asennus pysähtyi kohtaan Summary, eikä liikkunut siitä yhtään mihinkään, joten käynnistin koneen uudelleen ja aloitin asentamisen suoraan installerilla, jolla homma saatiin maaliin. Lopuksi vielä avasin  terminal emulaattorin, josta hain päivitykset komennolla:  
+Seuraavaksi painoin Install, jolloin asennus käynnistyi. Lopuksi vielä avasin  terminal emulaattorin, josta hain päivitykset komennolla:  
 
     $ sudo apt-get update,  
 
