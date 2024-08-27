@@ -107,15 +107,26 @@ Sitten vielä piti nimetä kone ja luoda pääkäyttäjän tunnus, sekä salasan
 
  
 
-Seuraavaksi painoin Install, jolloin asennus käynnistyi. Lopuksi vielä avasin  terminal emulaattorin, josta hain päivitykset komennolla:  
+Seuraavaksi painoin Install, jolloin asennus käynnistyi. Lopuksi vielä avasin  terminal emulaattorin, josta hain päivitykset komennolla:
 
-    $ sudo apt-get update,  
+![image](https://github.com/user-attachments/assets/eca835c6-f573-4e6a-a1e4-f0d3b23bf254)
+
+
+    $ sudo apt-get update 
 
 asensin kaikki päivitykset  
+
+![image](https://github.com/user-attachments/assets/cb715bff-fd8d-4ff1-a1f3-2a1ac073d991)
+
 
     $ sudo-apr-get –y dist-upgrade  
 
 ja asensin palomuurin ja laitoin sen päälle:  
+
+![image](https://github.com/user-attachments/assets/6d37b0ca-6323-427a-b484-6b1c6f4f5eb7)
+
+![image](https://github.com/user-attachments/assets/b265a45e-cbc7-4123-8fff-e1acf918dfd9)
+
 
     $ sudo apt-get -y install ufw
     $ sudo ufw enable 
